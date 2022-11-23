@@ -5,7 +5,10 @@
 
 ![image](https://user-images.githubusercontent.com/84180549/203546907-7e836524-038d-4c72-ba2c-e02a6fabe957.png)
 
-![image](https://user-images.githubusercontent.com/84180549/203546929-89a2a3f1-5305-4611-b6c5-e33c0aab42a0.png)
+![image](https://user-images.githubusercontent.com/84180549/203547939-1aca43a0-3660-4b3d-aac4-cca2a383f1ba.png)
+
+![image](https://user-images.githubusercontent.com/84180549/203548060-5869d891-531d-42c2-9a81-e323459e159f.png)
+
 # About 
 Simple blog website named by Amma's Pickle with 10 cards in which diffrent pickles are defined.
 
