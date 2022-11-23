@@ -1,3 +1,11 @@
+# Screenshots
+![image](https://user-images.githubusercontent.com/84180549/203546833-14c8aa04-35b8-4121-93fb-21895e911d9d.png)
+![image](https://user-images.githubusercontent.com/84180549/203546874-5117d0a7-df51-4d6e-b344-301f85069e31.png)
+![image](https://user-images.githubusercontent.com/84180549/203546907-7e836524-038d-4c72-ba2c-e02a6fabe957.png)
+![image](https://user-images.githubusercontent.com/84180549/203546929-89a2a3f1-5305-4611-b6c5-e33c0aab42a0.png)
+# About 
+Simple blog website named by Amma's Pickle with 10 cards in which diffrent pickles are defined.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
